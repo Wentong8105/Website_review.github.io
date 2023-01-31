@@ -1,0 +1,30 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Wentong's awesome website
+
+Can put some markdown text here..
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+```{r}
+rnorm(10)
+```
+
+## Links
+
+Let's link to useful tools for data science:
+
+* [Google](http://www.google.com)
+
+## Local Image
+
+## Link to page within the site
+
+[About Me](aboutme.html)
+
